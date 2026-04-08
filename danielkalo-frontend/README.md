@@ -2,20 +2,6 @@
 
 The client-facing React application that allows users to seamlessly browse upcoming games, analyze simulations, and manage their watchlists.
 
-## Project Gallery
-
-**Dashboard Home**  
-![New Homepage](public/images/new_homepage.png)
-
-**Today's Matches & Filtering**  
-![Today's Games](public/images/todays_games_iter3.png)  
-![Upcoming Games Filter](public/images/upcoming_games_w_sport_filter.png)
-
-**Monte-Carlo Match Simulator**  
-![Ran Simulation](public/images/ran_simulation_iter3.png)
-
-**Interactive Watchlists (Drag & Drop)**  
-![My Sims](public/images/my_sims_iter3.png)
 
 ## Core Capabilities
 
